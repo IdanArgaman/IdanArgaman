@@ -6,8 +6,6 @@ Hi, I'm Idan Argaman, a passionate Senior Full Stack web developer / Team Leader
 During work, I take great care in the experience, architecture, and code quality of the things I build.
 
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 
