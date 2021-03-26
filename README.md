@@ -11,7 +11,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/IdanArgaman/IdanArgaman/master/assets/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -21,10 +21,10 @@ I learned a lot from the open-source community and I love how collaboration and 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:time-->
 ```text
-React        12 hrs   
-JavaScript   8 hrs 
-VueJS        5 hrs       
-Angular      4 hrs  
-Node         3 hrs
+React        12 hrs   ███████████░░░░ 
+JavaScript   8 hrs    ██████░░░░░░░░░ 
+VueJS        5 hrs    ███░░░░░░░░░░░░   
+Angular      4 hrs    ██░░░░░░░░░░░░░
+Node         3 hrs    █░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:time-->
